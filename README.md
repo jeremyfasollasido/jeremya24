@@ -1,4 +1,4 @@
-# Hi All! 
+# Hi All 👋👋! 
 
 Allow me to introduce myself, my name is **Jeremya Tampubolon**.<br>
 
