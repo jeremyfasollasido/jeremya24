@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi All! 
 
-<!--
-**jeremya24/jeremya24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Allow me to introduce myself, my name is **Jeremya Tampubolon**.<br>
 
-Here are some ideas to get you started:
+I'm an **Undergraduate Student** at [Brawijaya University](https://ub.ac.id/id/).<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Computer Engineer Student** at Computer Science Faculty Brawijaya University [FILKOM UB](https://filkom.ub.ac.id/).<br>
+
+I was once an expert staff member in the Student Resource Development department at the Computer Engineering Student Association in 2022.<br>
+
+I was the deputy head of the Science and Professional Development department in the student association of the information engineering department in 2023.<br>
+
+If you are interested in getting to know me, please follow my linkedin account [Linkedin](https://www.linkedin.com/in/jeremya-tampubolon-a0681829a/).
