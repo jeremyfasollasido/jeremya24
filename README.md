@@ -2,7 +2,7 @@
 
 Allow me to introduce myself, my name is **Jeremya Tampubolon**.<br>
 
-I'm a **Bachelor of Engineering** at [Brawijaya University](https://ub.ac.id/id/).<br>
+I'm a **Bachelor of Engineering** from [Brawijaya University](https://ub.ac.id/id/).<br>
 
 I am a **Computer Engineer Student** at Computer Science Faculty Brawijaya University [FILKOM UB](https://filkom.ub.ac.id/).<br>
 
