@@ -12,7 +12,7 @@ I was the deputy head of the Science and Professional Development department in 
 
 I was a Steering Comittee of **PMK Daniel**-Christian Student Assosiation at Computer Science Faculty Brawijaya University.<br>
 
-If you are interested in getting to know me, please follow my linkedin account [Linkedin](https://www.linkedin.com/in/jeremya-tampubolon-a0681829a/).
+If you are interested in getting to know me, please follow my linkedin account [Linkedin](https://www.linkedin.com/in/jeremya-tampubolon-a0681829a/) or you can contact my email (jeremiatampubolon025@gmail.com)
 
 <p align="left">
 <a href="https://github.com/jeremyfasollasido">
