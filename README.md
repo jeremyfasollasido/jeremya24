@@ -13,9 +13,9 @@ I was the deputy head of the Science and Professional Development department in 
 If you are interested in getting to know me, please follow my linkedin account [Linkedin](https://www.linkedin.com/in/jeremya-tampubolon-a0681829a/).
 
 <p align="left">
-<a href="https://github.com/jeremya24">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremya24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremya24&layout=compact&layout=compact&theme=algolia"/>
-  <a href="https://github.com/jeremya24"><img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=jeremya24&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a href="https://github.com/jeremyfasollasido">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyfasollasido&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyfasollasido&layout=compact&layout=compact&theme=algolia"/>
+  <a href="https://github.com/jeremyfasollasido"><img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=jeremyfasollasido4&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </a>
 </p>
