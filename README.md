@@ -18,6 +18,6 @@ If you are interested in getting to know me, please follow my linkedin account [
 <a href="https://github.com/jeremyfasollasido">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyfasollasido&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyfasollasido&layout=compact&layout=compact&theme=algolia"/>
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jeremyfasollasido" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jeremyfasollasido&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </a>
 </p>
